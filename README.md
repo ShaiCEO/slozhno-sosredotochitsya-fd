@@ -1,1 +1,1 @@
-https://github.com/ShaiCEO/slozhno-sosredotochitsya-fd
+https://github.com/ShaiCEO/slozhno-sosredotochitsya-fd.git
